@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Não usamos email nem backend: ao submeter, o pedido é formatado
   // e aberto automaticamente no WhatsApp do número da empresa, já
   // pronto a enviar. Não requer nenhuma conta ou serviço externo.
-  const WHATSAPP_NUMBER = '351925375475'; // EDITAR: número com indicativo de país, sem "+"
+  const WHATSAPP_NUMBER = '351926979094'; // EDITAR: número com indicativo de país, sem "+"
 
   const form = document.getElementById('contactForm');
   const formSuccess = document.getElementById('formSuccess');

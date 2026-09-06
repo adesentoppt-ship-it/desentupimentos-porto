@@ -27,7 +27,7 @@ python3 -m http.server 8000
 Procure por `EDITAR:` dentro de `index.html` para encontrar rapidamente os pontos a ajustar:
 
 - Nome da empresa (`.logo__text`, `<title>`, rodapé)
-- Números de telefone e WhatsApp (todos os `tel:` e `wa.me` links) — atualmente 925 375 475
+- Números de telefone e WhatsApp (todos os `tel:` e `wa.me` links) — atualmente 926 979 094
 - Zonas de cobertura (secção "Onde atuamos") — atualmente região do Porto
 - Métodos de pagamento aceites (FAQ)
 - Número que recebe os pedidos do formulário (`WHATSAPP_NUMBER` no topo de `script.js`)
